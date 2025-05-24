@@ -2,6 +2,6 @@ Student address:
 7,
 perumal kovil street,
 Naranammalpuram,
-Tirunelveli - 627 357,
+Tenkasi - 627 312,
 Tamil Nadu,
 India.
